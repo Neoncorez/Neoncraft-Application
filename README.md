@@ -28,11 +28,6 @@ Current Version: **v1.0.0 (Initial Release)**
 
 ---
 
-## 📥 Download
-
-Download latest release from:
-https://github.com/Neoncorez/Neoncraft-Application/releases
-
 ---
 
 ## 📌 Note
